@@ -1,3 +1,6 @@
+// 256color_Rust
+// By: $t@$h, QVLx Labs
+
 use rand::Rng;
 use std::process::Command;
 use std::env;
